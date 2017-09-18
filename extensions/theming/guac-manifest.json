@@ -1,0 +1,6 @@
+{
+    "guacamoleVersion" : "0.9.13-incubating",
+    "name" : "Theming Extension",
+    "namespace" : "guac-theme-extension",
+    "translations" : [
+        "translations/en.json"]}
