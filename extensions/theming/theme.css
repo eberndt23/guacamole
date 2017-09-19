@@ -1,0 +1,9 @@
+
+    .login-ui .login-dialog .logo {
+       display:block;
+       width: auto; height: 6em;
+       background-repeat: no-repeat;
+       margin:auto 0.1em;
+       background-size: 12em 6em;       
+       background-image: url('images/logo.png');
+    }
