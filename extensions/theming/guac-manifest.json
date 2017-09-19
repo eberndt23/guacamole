@@ -2,5 +2,9 @@
     "guacamoleVersion" : "*",
     "name" : "Theming Extension",
     "namespace" : "guac-theme-extension",
+    "css" : [ "theme.css" ],
+    "resources" : {
+        "images/logo.png"   : "image/png"
+    },
     "translations" : [
         "translations/en.json"]}
